@@ -1,18 +1,148 @@
-# Week 5 GAI工作坊：圖像設計的應用與實踐  
+![image](https://github.com/user-attachments/assets/fe26151c-aea7-4a57-8df5-1866cc28880e)# Week 5 GAI工作坊：圖像設計的應用與實踐  
 ## 所屬分類 1：漫畫與卡通風格
-### 生成圖片「一隻開朗的卡通狗，大眼睛，誇張的動作，充滿活力和可愛的表情。」
-![image](https://github.com/user-attachments/assets/467d3ca6-ca26-4961-8502-0c8641f47b48)
-![image](https://github.com/user-attachments/assets/822d45c1-8cac-4374-9709-3f5953defcad)
-![Uploading image.png…]()
+## **[Lab 1: 卡通角色設計]**
 
+圖像類型：卡通角色
+
+實驗介紹：學習如何透過誇張的面部特徵與動態姿勢來創造生動有趣的卡通角色。
+
+實作提示語：
+
+### 「一隻開朗的卡通狗，大眼睛，誇張的動作，充滿活力和可愛的表情。」
+
+學習重點：學會運用形容詞與動作描述，使角色視覺上更具活力
+![image](https://github.com/user-attachments/assets/fc487dbe-02ab-43fd-82c9-f1f3148ed197)
+### 「一隻疲累的卡通狗，蜷縮著身體在睡覺」
+![image](https://github.com/user-attachments/assets/bd09d47e-1108-460e-82d7-86695a34c614)
+
+
+## **[Lab 2: 超級英雄漫畫風格]**
+
+圖像類型：超級英雄漫畫
+
+實驗介紹：學習如何運用粗體線條、鮮豔色彩與動態構圖來傳達超級英雄的力量感。
+
+實作提示語：
+
+### 「一位超級英雄飛過城市，粗體線條和鮮艷色彩，具有美國漫畫風格。」
+
+學習重點：理解如何透過色彩與動作表現角色的氣場與強烈視覺衝擊。
+![image](https://github.com/user-attachments/assets/0697911a-c0d6-498a-aa5c-ff9e2b174173)
+### 「一位超級英雄飛過城市，粗體線條和藍色色調，帶有科技感的超級英雄，具有美國漫畫風格。」
+![image](https://github.com/user-attachments/assets/b9b7605e-99eb-4b0d-abf9-0a0a005f1d05)
 
 ## 所屬分類 2：基礎寫實風景系列
+## **[Lab 3: 基礎寫實風景]**
+
+圖像類型：寫實自然風景
+
+實驗介紹：學習如何透過光影、環境細節與天氣描述來創造逼真的自然場景。
+
+實作提示語：
+
+### 「清晨的森林景象，陽光穿過樹梢，地面覆蓋著濕潤的青苔和落葉。」
+
+學習重點：掌握自然光影的描繪技巧，理解景物細節如何增強畫面真實感。
+![image](https://github.com/user-attachments/assets/79cb7c10-42e9-4902-b326-47779fd385d1)
+### 「清晨的森林景象，鏡頭設定在背光側，針葉林，正在下雪。」
+![image](https://github.com/user-attachments/assets/09ec1993-2737-4823-8246-b48501571e32)
+## **[Lab 4: 現代城市夜景]**
+
+圖像類型：現代城市夜景
+
+實驗介紹：學習如何使用人工光源與環境細節來表現都市夜晚的氛圍。
+
+實作提示語：
+
+### 「夜晚的繁忙城市街道，霓虹燈閃爍，路面反射著雨後的光。」
+
+學習重點：理解城市環境中的光影效果，學習如何運用反射與燈光來增強夜景的立體感。
+![image](https://github.com/user-attachments/assets/186fca2e-6c78-464f-a2cc-dd6c39333581)
+### 「夜晚的寧靜城市小巷，住宅的窗戶透出暖黃色的燈光，路面反射著雨後的光。」
+![image](https://github.com/user-attachments/assets/61cdcd07-f069-4ee3-8101-5a7afb5c6ad7)
 
 ## 所屬分類 3：印象派與表現主義
+## **[Lab 5: 印象派風景]**
+
+圖像類型：印象派風景
+
+實驗介紹：學習如何利用色彩層次與柔和筆觸模仿印象派繪畫風格。
+
+實作提示語：
+
+### 「以克勞德·莫內風格呈現的河邊景象，柔和的筆觸和明亮的色彩，水面倒映著天空。」
+
+學習重點：理解印象派如何透過光影與色彩變化來捕捉瞬間的美感。
+![image](https://github.com/user-attachments/assets/a6d06752-dc47-40ad-a9a5-4b7f8a4af3bd)
+### 「以克勞德·莫內風格呈現的奇幻的景象，柔和的筆觸和柔和的色彩，水面倒映著天空。」
+![image](https://github.com/user-attachments/assets/8c21d76f-69da-4b27-b3b7-232f0790e554)
+## **[Lab 6: 表現主義肖像]**
+
+圖像類型：表現主義肖像
+
+實驗介紹：探討如何使用誇張的色彩與面部表情來傳達情緒與心理狀態。
+
+實作提示語：
+
+### 「一個情緒激動的人物肖像，使用鮮明的對比色彩和誇張的面部表情，靈感來自蒙克。」
+
+學習重點：學會如何運用強烈的色彩對比來增強情感表現。
+![image](https://github.com/user-attachments/assets/ed40d0cc-32bb-40ef-9673-bc9cc117fdce)
+### 「一個情緒冷靜的人物肖像，使用鮮明的對比色彩和誇張的面部表情，靈感來自蒙克。」
+![image](https://github.com/user-attachments/assets/44a82433-39a0-4dab-9fe9-4686f5df867e)
 
 ## 所屬分類 4：幾何與抽象藝術
+## **[Lab 7: 幾何抽象設計]**
+
+圖像類型：幾何抽象設計
+
+實驗介紹：學習如何利用基本幾何形狀與原色創造具現代感的抽象藝術。
+
+實作提示語：
+
+### 「重疊的圓形和方形，使用鮮明的原色組合，具有包豪斯風格的抽象設計。」
+
+學習重點：理解幾何結構如何影響視覺焦點，學習如何平衡圖形構成。
+![image](https://github.com/user-attachments/assets/ed7d62f5-15da-4bc3-bf49-399746e5629b)
+### 「重疊的圓形和方形，使用冷色調，具有包豪斯風格的抽象設計。」
+![image](https://github.com/user-attachments/assets/6e2bcfe9-3f45-4513-a944-1705989312bf)
+
+### 「重疊的圓形和方形，使用暖色調，具有包豪斯風格的抽象設計。」
+![image](https://github.com/user-attachments/assets/e23df48c-26c2-4887-be60-0f34efa4ad95)
 
 ## 所屬分類 5：文藝復興與古典風格
+## **[Lab 8: 文藝復興風格肖像]**
+
+圖像類型：文藝復興風格肖像
+
+實驗介紹：探討如何通過細膩的光影與服裝細節再現文藝復興時期的肖像畫風格。
+
+實作提示語：
+
+### 「一位貴族的文藝復興風格肖像，穿著細緻的服飾，柔和的光線照亮臉龐。」
+
+學習重點：理解文藝復興時期對於光影的處理與人物細節的雕琢方式。
+![image](https://github.com/user-attachments/assets/ff493664-ba03-447c-9390-30e5677d6da0)
+### 「一位中產階級商人的文藝復興風格肖像，穿著樸素的服飾，柔和的光線照亮臉龐。」
+![image](https://github.com/user-attachments/assets/bac71436-d2e8-42db-a09b-c976aa7374c3)
+
+## **[Lab 9: 古典建築]**
+
+圖像類型：古典建築
+
+實驗介紹：學習如何利用比例、對稱與光影效果，生成富有歷史感的古典建築圖像。
+
+實作提示語：
+
+### 「一座壯麗的古希臘神廟，雕刻精美的大理石柱子，背景是藍天白雲。」
+
+學習重點：掌握建築比例與光影處理，學習如何突出建築的宏偉感。
+![image](https://github.com/user-attachments/assets/d7436493-c6e6-4015-b172-ee7533b6d8e1)
+### 「一座壯麗的古希臘神廟，雕刻精美的大理石柱子，背景是清晨。」
+![image](https://github.com/user-attachments/assets/fee027e8-0d26-47d7-99c3-0bf0cd947845)
+### 「一座壯麗的古希臘神廟，雕刻精美的大理石柱子，背景是黃昏。」
+![image](https://github.com/user-attachments/assets/ec387fb5-7425-49d8-9266-564f5f5862c4)
+
 
 ## 所屬分類 6：超現實與奇幻風格
 
