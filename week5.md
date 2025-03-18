@@ -145,15 +145,167 @@
 
 
 ## 所屬分類 6：超現實與奇幻風格
+## **[Lab 10: 神話場景創作]**
 
+圖像類型：神話場景
+
+實驗介紹：探索如何運用神話元素、戲劇化光影與超現實構圖，創造史詩級的神話場景。
+
+實作提示語：
+
+### 「希臘神話中的場景，宙斯站在奧林匹斯山上，手持雷霆，身旁環繞著神話生物。」
+
+學習重點：學習如何運用戲劇性光影與動態構圖增強視覺張力。
+![image](https://github.com/user-attachments/assets/81d2b0b5-4b73-4433-9ef1-150a4f3ac4aa)
+
+### 「希臘神話中的夜晚場景，宙斯站在奧林匹斯山上，手持雷霆，身旁環繞著神話生物。」
+![image](https://github.com/user-attachments/assets/0eba1bf2-e3ea-41cb-bc2f-89e1ee95dd91)
+
+
+## **[Lab 11: 超現實夢境]**
+
+圖像類型：超現實夢境
+
+實驗介紹：學習如何利用顛覆現實的描述，生成夢境般的超現實場景。
+
+實作提示語：
+
+### 「一個漂浮的島嶼，島上倒置的山峰，瀑布向上流向天空。」
+
+學習重點：理解如何透過顛覆物理法則與想像力，創造獨特的視覺體驗。
+![image](https://github.com/user-attachments/assets/fa647a5f-31ee-4cad-92ae-fccd0131712a)
+### 「一個顛倒的森林，樹木倒著生長，光線從地面透出。」
+![image](https://github.com/user-attachments/assets/7bdeb0b7-33a7-42bf-ac7a-75e8d0407165)
+## **[Lab 12: 奇幻生物設計]**
+
+圖像類型：奇幻生物
+
+實驗介紹：學習如何設計神秘、超自然的奇幻生物，並透過色彩與光影強化其特徵。
+
+實作提示語：
+
+### 「一條發光的龍，透明的翅膀輕輕拍動，飛翔在薄霧籠罩的山谷上空。」
+
+學習重點：學會如何平衡生物結構的合理性與幻想元素，使角色既神秘又可信
+![image](https://github.com/user-attachments/assets/781d8826-5b1e-4dae-ba1b-0d6f7fc2d4f7)
+### 「一群螢光透明的魚，在海洋中成群結隊。」
+![image](https://github.com/user-attachments/assets/2ec845a9-6d87-41df-801a-1c3dad1aa1d0)
 ## 所屬分類 7：現代與未來主義
+## **[Lab 13: 未來都市]**
+
+圖像類型：未來都市
+
+實驗介紹：探索如何運用科技元素與未來感設計，生成充滿前衛感的都市景觀。
+
+實作提示語：
+
+### 「一個未來的城市，巨大的摩天大樓和空中的飛行車輛，充滿科技感。」
+
+學習重點：理解未來主義建築風格，學習如何透過構圖營造未來感。
+![image](https://github.com/user-attachments/assets/1dc8b7cb-f14d-40b5-970d-d71fda324bb4)
+### 「一個近未來的城市，巨大的摩天大樓和空中的飛行車輛，充滿科技感。」
+![image](https://github.com/user-attachments/assets/8e490afc-d9d9-474a-98bb-afac58a4c3f4)
+### 「一個遠未來的城市，巨大的摩天大樓和空中的飛行車輛，充滿科技感。」
+![image](https://github.com/user-attachments/assets/ff1541e8-9c8c-49f0-86ec-31b57aab9a6c)
+## **[Lab 14: 科技產品設計]**
+
+圖像類型：科技產品
+
+實驗介紹：學習如何設計具有創新感與高質感的科技產品，展現現代工業設計的核心理念。
+
+實作提示語：
+
+### 「一款極具科技感的手錶，帶有全息顯示屏，設計時尚簡潔。」
+
+學習重點：理解光線與材質在科技產品中的應用，學習如何透過提示語提升產品設計感。
+![image](https://github.com/user-attachments/assets/2c33c6e9-4369-4dae-8561-18670ef8d670)
+### 「一款極具科技感的手錶，金屬錶帶，帶有全息顯示屏，設計時尚簡潔。」
+![image](https://github.com/user-attachments/assets/6f245923-43f9-4e48-a581-2757ed35a30e)
+### 「一款極具科技感的手錶，玻璃鏡面，帶有全息顯示屏，設計時尚簡潔。」
+![image](https://github.com/user-attachments/assets/340ded8a-960f-47c4-a754-5b45ec64bc2f)
 
 ## 所屬分類 8：橫向全景與局部細節
+## **[Lab 15: 全景風景]**
 
+圖像類型：全景風景
+
+實驗介紹：學習如何透過大範圍視角與層次感，生成壯麗的全景風景。
+
+實作提示語：
+
+### 「生成一個寬屏尺寸的山脈全景圖，藍天和雪山占據畫面的兩側。」
+
+學習重點：掌握全景視角的構圖技術，理解透視與深度的處理方式。
+![image](https://github.com/user-attachments/assets/4fdeea13-ec2e-4196-9a7f-0183dd609da4)
+### 「生成一個近景的山脈，就像人在山頂拍攝一樣。」
+![image](https://github.com/user-attachments/assets/a78dedde-9559-4bb3-9851-9379883f64f5)
+### 「生成一個遠景的山脈，藍天和雪山占據畫面的兩側。」
+![image](https://github.com/user-attachments/assets/e6f724d4-9dbb-432e-bf3e-c8e5777dadf1)
 ## 所屬分類 9：環境氛圍與時間感
+## **[Lab 16: 霧氣環境營造]**
+
+圖像類型：霧氣環境
+
+實驗介紹：學習如何利用霧氣描述來營造神秘與柔和的視覺氛圍。
+
+實作提示語：
+
+### 「生成一個清晨被濃霧籠罩的森林，所有物體都隱約可見，營造出神秘的氣氛。」
+
+學習重點：掌握霧氣對光線與色彩的影響，學習如何利用模糊與漸變效果增強空間感。
+![image](https://github.com/user-attachments/assets/50221c01-52be-4db1-932a-9cd91172171d)
+### 「生成一個夜晚被濃霧籠罩的森林，所有物體都隱約可見，營造出神秘的氣氛。」
+![image](https://github.com/user-attachments/assets/cea9a41a-a738-4ffb-b175-f2a6711d7b70)
+
+## **[Lab 17: 雨後都市風貌]**
+
+圖像類型：雨後都市
+
+實驗介紹：學習如何透過雨後的環境細節，如水面反射與潮濕街道，表現都市獨特的視覺效果。
+
+實作提示語：
+
+### 「生成一個下過雨後的城市街道，路面濕潤，燈光在水面上反射。」
+
+學習重點：理解濕度與光影互動的影響，學會使用細節增強場景的真實感。
+![image](https://github.com/user-attachments/assets/6241bc84-05b0-4121-9ed4-fdfabd2cc780)
+### 「生成一個清晨下過雨後的城市街道，路面濕潤，場景在水面上反射。」
+![image](https://github.com/user-attachments/assets/fd5a6379-6074-409d-9c01-3bdbcafc5476)
+## **[Lab 18: 黃昏景象]**
+
+圖像類型：黃昏景象
+
+實驗介紹：學習如何利用夕陽光線與暖色調創造充滿溫暖與柔和的黃昏場景。
+
+實作提示語：
+
+### 「生成一個黃昏時刻的公園，橙色的夕陽光線穿透樹葉，整個場景充滿溫暖。」
+
+學習重點：理解光線色溫對情緒的影響，學習如何使用光影變化強化畫面情感。
+
+### 「生成一個黃昏時刻的繁忙都市，建築物的玻璃反射黃昏的陽光。」
+![image](https://github.com/user-attachments/assets/42b0ef35-701c-449a-8134-21faf682b21e)
+### 「生成一個黃昏時刻的鄉村田園，夕陽灑在農作物與農舍上。」
+![image](https://github.com/user-attachments/assets/3b5355cb-6d01-43aa-8a01-cdda5dc0b7a5)
 
 ## 所屬分類 A ：自然動態細節捕捉
+## **[Lab 19: 動態水流效果]**
 
+圖像類型：動態水流
+
+實驗介紹：學習如何透過水流的運動細節與光影效果，增強水體的動態表現。
+
+實作提示語：
+
+### 「生成一個湍急的河流景象，水流快速運動，並且可以清晰看到水花飛濺。」
+
+學習重點：掌握動態模糊與水體運動方向的影響，學習如何透過水花與反光來增強畫面表現。
+ ![image](https://github.com/user-attachments/assets/7b33248c-76e3-495a-9b82-15f735dabbc3)
+
+### 「生成一個平靜湖泊景象，湖面平靜，偶有漣漪。」
+![image](https://github.com/user-attachments/assets/8cedfc1b-9edc-42f2-90ee-aa759bb046bd)
+### 「生成一個湍急的瀑布水流景象，水流快速運動，並且可以清晰看到水花飛濺。」
+![image](https://github.com/user-attachments/assets/14bc8c22-8f82-4b58-97e8-b4d0da8aacbb)
 ## 所屬分類 B：品牌設計與形象塑造
 
 ## 所屬分類 C：廣告與行銷設計
