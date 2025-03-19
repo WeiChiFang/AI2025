@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/fe26151c-aea7-4a57-8df5-1866cc28880e)# Week 5 GAI工作坊：圖像設計的應用與實踐  
 ## 所屬分類 1：漫畫與卡通風格
 ## **[Lab 1: 卡通角色設計]**
 
@@ -44,8 +43,9 @@
 
 學習重點：掌握自然光影的描繪技巧，理解景物細節如何增強畫面真實感。
 ![image](https://github.com/user-attachments/assets/79cb7c10-42e9-4902-b326-47779fd385d1)
-### 「清晨的森林景象，鏡頭設定在背光側，針葉林，正在下雪。」
-![image](https://github.com/user-attachments/assets/09ec1993-2737-4823-8246-b48501571e32)
+### 「午後的森林景象，楓樹被金黃色的陽光映襯，落葉飄落在地，形成層層疊疊的暖色調地毯。」
+![image](https://github.com/user-attachments/assets/3461b120-c685-4485-98de-7cd93ffc2aff)
+
 ## **[Lab 4: 現代城市夜景]**
 
 圖像類型：現代城市夜景
@@ -74,7 +74,7 @@
 
 學習重點：理解印象派如何透過光影與色彩變化來捕捉瞬間的美感。
 ![image](https://github.com/user-attachments/assets/a6d06752-dc47-40ad-a9a5-4b7f8a4af3bd)
-### 「以克勞德·莫內風格呈現的奇幻的景象，柔和的筆觸和柔和的色彩，水面倒映著天空。」
+### 「以克勞德·莫內風格呈現的奇幻的景象，柔和的筆觸和豐富的色彩，水面倒映著天空。」
 ![image](https://github.com/user-attachments/assets/8c21d76f-69da-4b27-b3b7-232f0790e554)
 ## **[Lab 6: 表現主義肖像]**
 
@@ -254,8 +254,8 @@
 
 學習重點：掌握霧氣對光線與色彩的影響，學習如何利用模糊與漸變效果增強空間感。
 ![image](https://github.com/user-attachments/assets/50221c01-52be-4db1-932a-9cd91172171d)
-### 「生成一個夜晚被濃霧籠罩的森林，所有物體都隱約可見，營造出神秘的氣氛。」
-![image](https://github.com/user-attachments/assets/cea9a41a-a738-4ffb-b175-f2a6711d7b70)
+### 「生成一個深夜被濃霧籠罩的森林，所有物體都隱約可見，營造出神秘的氣氛。」
+![image](https://github.com/user-attachments/assets/110f6a16-8753-481c-bd07-3d05105d2a17)
 
 ## **[Lab 17: 雨後都市風貌]**
 
@@ -353,12 +353,12 @@
 ### 「生成一個新型筆記本電腦的 3D 展示圖，展示多角度視圖並強調設計的創新點。」
 
 學習重點：理解多角度視圖如何增強產品展示的說服力，學習如何運用光影提升產品質感。
-![image](https://github.com/user-attachments/assets/11497da6-29c8-4ff6-b5a8-b0657ef602a7)
+![image](https://github.com/user-attachments/assets/735eed44-b76f-469c-8321-b22acd6cc0f0)
 
-### 「生成一個新型筆記本電腦的 3D 展示圖，展示多角度視圖並強調設計的創新點，正面視角。」
-![image](https://github.com/user-attachments/assets/9f8ec2f1-023d-4fa0-a24d-c777098a9778)
+### 「生成一個新型筆記本電腦的 3D 展示圖，展示正面視角並強調設計的創新點。」
+![image](https://github.com/user-attachments/assets/1d71267e-29c5-402a-9fc3-803505bf6c3a)
 
-### 「生成一個新型筆記本電腦的 3D 展示圖，展示多角度視圖並強調設計的創新點，45 度角視角。」
+### 「生成一個新型筆記本電腦的 3D 展示圖，展示45 度角視角並強調設計的創新點。」
 ![image](https://github.com/user-attachments/assets/efb35e6f-da4d-4e5f-b3b2-4e4424550c6f)
 
 
@@ -374,6 +374,8 @@
 ### 「在一個充滿蒸汽龐克元素的未來城市中，融合古典建築的優雅與超現實夢境般的色彩，故事中的主角是一位穿著融合現代與復古風格的探險家，在霧氣瀰漫的街道中尋找失落的文明。」
 
 學習重點：理解如何從敘事角度出發，整合多種風格元素，並創造具有故事性的畫面。
+![image](https://github.com/user-attachments/assets/c4db08fa-3fa1-42be-96f6-656106905feb)
+
 ### 「生成一幅融合巴洛克與科幻元素的宮殿場景。在金碧輝煌的宮殿中，一位穿著銀色金屬盔甲和巴洛克風格華服的女性探險家站在全息星圖前，周圍充滿機械與裝飾的細節交織。穹頂描繪著未來星系，並以細緻的雕刻融入科技管線。」
 ![image](https://github.com/user-attachments/assets/dfe6ea81-4822-4e21-b742-17e68105b967)
 
