@@ -1226,3 +1226,8 @@ AI 領域的求職路徑並不簡單，但只要有清晰的規劃，持續學�
 
 ### **總結**
 日記帳不僅是記錄財務交易的工具，它還是財務分析和決策的基礎。對於消防設備檢修的中小型企業而言，通過仔細記錄所有交易、分析現金流與成本、以及生成財務報表，管理層可以作出更加明智的決策，提升企業的運營效率和盈利能力。
+
+## 綜合實戰：
+![image](https://github.com/user-attachments/assets/cab6ba1f-1d51-4518-bc4e-7bdcb93ddf64)
+國立臺北大學心湖(出處：LINE TODAY)
+![image](https://github.com/user-attachments/assets/78ad277d-af8f-46ac-afd1-6d54bcd7ac8b)
