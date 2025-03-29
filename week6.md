@@ -1232,8 +1232,6 @@ AI 領域的求職路徑並不簡單，但只要有清晰的規劃，持續學�
 國立臺北大學心湖(出處：LINE TODAY)
 
     請生成台北大學的心湖
-![image](https://github.com/user-attachments/assets/78ad277d-af8f-46ac-afd1-6d54bcd7ac8b)
-![image](https://github.com/user-attachments/assets/ae52533a-d874-43ce-9584-77cf0ac04dd5)
 ![image](https://github.com/user-attachments/assets/2ef89b69-da22-447b-be1e-dc678f8bb5b1)
 
     請你依據以下描述生成圖片 
