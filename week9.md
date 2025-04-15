@@ -110,7 +110,7 @@ https://suno.com/song/f015c9c6-f631-4ada-9355-3d36f46889e2?sh=FfywIdsHxM5GGq0p
 
 https://suno.com/song/813707b8-31a6-4374-85da-4a332e94ff38?sh=jJTkdFe6kvruHGzp
 
-## 實作四:
+## 實作四: 延長歌曲時常與結構調整
 https://suno.com/song/c1c113fb-26af-4573-afc5-d00694e6ac30?sh=FmVnSIIfPvooMUAs
 
 https://suno.com/song/d066b018-fe02-4afc-9e1f-94257eb35652?sh=6ny3Ne50kVQIYvRp
