@@ -117,10 +117,10 @@ https://suno.com/song/d066b018-fe02-4afc-9e1f-94257eb35652?sh=6ny3Ne50kVQIYvRp
 
 ## 實作五:
 ### 「用英文創作一首校園主題曲,風格為流行電子,展現青春與活力。」
-https://suno.com/song/b544f80e-383a-44b1-86e5-65047a4c0d3e?sh=iF8Xg9nG8QijbPau
+https://suno.com/song/4cb58ba7-9028-4b38-a215-d25a8db4ccad?sh=MQTfcjxOf6cfXjZZ
 
-https://suno.com/song/a544ee59-6f29-4a35-ac3e-ae6a6e38cf30?sh=4zOG0IFmyiBDXyQW
+https://suno.com/song/501ed659-23e6-47e6-9ec4-f68dea7cd0bb?sh=NZr5xhW5XyWXBwJh
 ### 「用日文創作一首溫馨背景音樂,風格為爵士,適合小型聚會。」
-https://suno.com/song/a990dd53-fba2-471f-bbf8-b6cd4aad0ac8?sh=ZaCM61rFBfx7h3rA
+https://suno.com/song/380db088-097c-4473-93e6-49066833d73a?sh=3jYRTp7RN7fCzmHo
 
-https://suno.com/song/24ad0c19-4dae-482c-ba71-18b6778bcb63?sh=alGwF8lF1qvvQuKw
+https://suno.com/song/f390a0a7-19b0-4887-ab88-19dec826193a?sh=cmJmtkLeNU4YJEFH
