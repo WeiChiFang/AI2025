@@ -18,4 +18,5 @@ The lighting is warm and natural, casting gentle shadows.
 ### 用相同Prompt開設一個新聊天所生成的圖像
 ![image](https://github.com/user-attachments/assets/7f2f20df-1284-4918-843b-8f438f8e2bb7)
 
-
+### 🧪Lab：用一張圖行銷自己
+![Vicky Fang](https://github.com/user-attachments/assets/227d3105-e770-4bd6-96ab-95367680bb6a)
