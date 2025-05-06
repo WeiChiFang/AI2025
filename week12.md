@@ -39,29 +39,35 @@ The lighting is warm and natural, casting gentle shadows.
 #### 1️⃣
 
 **EN:** "I woke up today... not from an alarm clock, but from my AI fridge yelling 'YOUR SMOOTHIE IS MELTING!'"
+
 **ZH:** 「我今天醒來，不是鬧鐘響了，是我的AI冰箱大叫：『你的果昔快融化啦！』」
 
 #### 2️⃣
 
 **EN:** "I brushed my teeth with a laser toothbrush while my mirror gave me live news updates and judged my outfit choices."
+
 **ZH:** 「我用雷射牙刷刷牙的時候，智慧鏡子邊播新聞邊評論我今天的穿搭。」
 
 #### 3️⃣
 
 **EN:** "My commute? Just teleport. But of course, I landed in my boss's office wearing bunny slippers. Again."
+
 **ZH:** 「我上班怎麼去？直接傳送啊！但我又一次穿著兔子拖鞋出現在老闆辦公室。」
 
 #### 4️⃣
 
 **EN:** "Lunch was 3D-printed sushi—tasted like real fish, programmed with 20% more happiness."
+
 **ZH:** 「午餐是3D列印壽司，味道像真的魚，還內建多20%的快樂感受。」
 
 #### 5️⃣
 
 **EN:** "After work, I joined a virtual concert with holographic cats DJ-ing. It was... surprisingly emotional."
+
 **ZH:** 「下班後我參加了一場全息貓咪DJ演唱會，沒想到居然還挺感人的。」
 
 #### 6️⃣
 
 **EN:** "As I floated to bed on my anti-gravity mattress, I whispered to my home AI: 'Let’s dream of dinosaurs on Mars tonight.'"
+
 **ZH:** 「當我躺在反重力床上飄向夢鄉時，對家裡的AI輕聲說：『今晚夢見火星上的恐龍吧。』」
