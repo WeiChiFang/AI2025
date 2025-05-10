@@ -70,3 +70,6 @@ The lighting is warm and natural, casting gentle shadows.
 **EN:** "As I floated to bed on my anti-gravity mattress, I whispered to my home AI: 'Let’s dream of dinosaurs on Mars tonight.'"
 
 **ZH:** 「當我躺在反重力床上飄向夢鄉時，對家裡的AI輕聲說：『今晚夢見火星上的恐龍吧。』」
+
+![image](https://github.com/user-attachments/assets/613b38a0-5d90-4ba3-a231-c7e371d139fd)
+
