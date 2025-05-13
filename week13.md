@@ -29,8 +29,7 @@ EN: "As I floated to bed on my anti-gravity mattress, I whispered to my home AI:
 
 ZH: 「當我躺在反重力床上飄向夢鄉時，對家裡的AI輕聲說：『今晚夢見火星上的恐龍吧。』」
 
-https://drive.google.com/file/d/1Mmuady9TfzxHolW397Kb9mgrNnqLfzNu/view?usp=sharing
-
+https://drive.google.com/file/d/1W6TyT9hs-2GYeh45h7Zf6hS9X0Jd1oRj/view?usp=sharing
 
 
 
